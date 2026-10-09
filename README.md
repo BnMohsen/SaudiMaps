@@ -1,4 +1,4 @@
-تطبيق خارطة المنظمات الأسرية السعودية
+تطبيق خارطة المنظومات الأسرية السعودية
 ![Application Dashboard](menu.jpg)
 ![Application Dashboard](search.jpg)
 ![Application Dashboard](home2.jpg)
